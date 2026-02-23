@@ -1,7 +1,7 @@
 compatibility_date = '2024-10-11'
 compatibility_flags = [ 'nodejs_compat' ]
 main = 'contact.js'
-name = 'me2christ-worker'
+name = 'metochrist-worker'
 
 [observability]
 enabled = true
